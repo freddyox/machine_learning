@@ -8,3 +8,8 @@ To run scripts within this directory, log into the root shell (simply type root 
 and run the following command:
 
 .x name_of_script.cpp++
+
+For example, if one wants to see the naive bayes classification code, change
+directory to bayes_classifier, enter the root shell (type root), and run
+
+.x bayes_classifier.cpp++
