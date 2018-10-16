@@ -1,0 +1,8 @@
+Requires CERN's ROOT package to be installed as it is used for plotting, random numbers, and other drawing features:
+https://root.cern.ch/download/root_v6.14.04.source.tar.gz
+
+Assuming ROOT is installed, log into the root shell (type root -l in the terminal within this directory), and run
+
+.x kmeans.cpp++
+
+which will generate plots and append to animation.gif (by default).
