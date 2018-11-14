@@ -1,5 +1,4 @@
-# machine_learning
-Machine learning algorithms
+# Machine learning algorithms
 
 Requires CERN's ROOT package to be installed as it is used for plotting, random numbers, and other drawing features:
 https://root.cern.ch/download/root_v6.14.04.source.tar.gz
