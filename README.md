@@ -11,9 +11,10 @@ directory to bayes_classifier, enter the root shell (type root in the terminal),
 
 .x bayes_classifier.cpp++
 
-## Examples
-* Gaussian Naive Bayes classification
+## Gaussian Naive Bayes classification
+* A full description may be found <a href="https://freddyox.github.io/blog/bayesian_classifier/">here</a>.
 ![Bayes](bayes_classifier/bayesian_example2.png)
 
-* K-Means
-![K](Kmeans/animation.gif)
+## K-Means
+* A full description may be found <a href="https://freddyox.github.io/blog/Kmeans/">here</a>.
+![K](https://github.com/freddyox/freddyox.github.io/blob/master/images/kmeans/animation.gif)
