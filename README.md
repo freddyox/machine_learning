@@ -22,5 +22,5 @@ directory to bayes_classifier, enter the root shell (type root in the terminal),
 * A before-and-after comparison:
 ![K1](https://github.com/freddyox/freddyox.github.io/blob/master/images/kmeans/kmeans_smallcanvas_success.png)
 
-* K-Means clustering applied to Old Faithful data using python and scikit-learn (see website for more details):
+* K-Means clustering applied to Old Faithful data using python and scikit-learn (see website for more details):<p></p>
 ![K2](https://github.com/freddyox/freddyox.github.io/blob/master/images/kmeans/old_faithful_summary.png)
