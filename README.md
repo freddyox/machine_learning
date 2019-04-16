@@ -1,4 +1,4 @@
-# Machine Learning Algorithms
+# Machine Learning Algorithms from Scratch
 * Requires CERN's ROOT package to be installed as it is used for plotting, random numbers, and other drawing features; the library may be downloaded <a href="https://root.cern.ch/download/root_v6.14.04.source.tar.gz">here</a>.
 
 To run scripts within this directory, enter the root shell (simply type root -l in the terminal if installed) 
